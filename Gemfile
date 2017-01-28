@@ -54,6 +54,7 @@ group :development do
   gem 'capistrano', '~> 3.7', '>= 3.7.2'
   gem 'capistrano-rails', '~> 1.2', '>= 1.2.2'
   gem 'capistrano-rvm', '~> 0.1.2'
+  gem 'capistrano-passenger'
   gem 'sqlite3'
 end
 
